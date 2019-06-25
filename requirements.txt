@@ -1,0 +1,4 @@
+request==2.21.0
+pandas=0.24.2
+bokeh==1.2.0
+flask==1.0.3
